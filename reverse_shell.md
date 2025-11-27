@@ -9,3 +9,4 @@ Finally (and most importantly) we will background the shell using **Ctrl + Z**. 
 
 The full technique can be seen here:
 
+![](https://github.com/Andreas512514/Shell/blob/main/Screenshot%202025-11-27%20170316.png)
