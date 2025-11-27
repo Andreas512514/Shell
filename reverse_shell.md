@@ -1,4 +1,4 @@
-# Working inside the reverse shell:
+### Working inside the reverse shell:
 
 1.The first thing to do is use python3 -c ***'import pty;pty.spawn("/bin/bash")'**, which uses Python to spawn a better-featured bash shell. At this point, our shell will look a bit prettier, but we still won’t be able to use tab autocomplete or the arrow keys, and Ctrl + C will still kill the shell.<br>
 
