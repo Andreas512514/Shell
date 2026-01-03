@@ -4,7 +4,7 @@
 A shell is software that allows a user to interact with an OS.
 
 In cyber security, it commonly refers to a specific shell session an attacker uses when accessing a compromised system, allowing them to run commands and execute software.
-This will allow attackers to execute several activities, some of which are described below.
+This will allow attackers to execute several activities, some of which are described below.<br><br>
 
 
 **Remote System Control**: allows the attacker to execute commands or software remotely in the target system.
